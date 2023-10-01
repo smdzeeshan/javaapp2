@@ -12,5 +12,6 @@
 </head>
 <body bgcolor="#ff69b4">
 <h1>Hi, I am a java web app!!</h1>
+<a href="Phase2.html">New Upcoming features</a>
 </body>
 </html>
